@@ -444,8 +444,8 @@ print flag
 
 ##### Author : kosong
 
-[1]: /assets/images/post/1.png
-[2]: /assets/images/post/2.png
-[3]: /assets/images/post/3.png
-[4]: /assets/images/post/4.png
-[5]: /assets/images/post/5.png
+[1]: /assets/images/post/tuctf/1.png
+[2]: /assets/images/post/tuctf/2.png
+[3]: /assets/images/post/tuctf/3.png
+[4]: /assets/images/post/tuctf/4.png
+[5]: /assets/images/post/tuctf/5.png
