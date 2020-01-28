@@ -1,5 +1,5 @@
 ---
-title: Code Challenge - Salesman
+title: "Code Challenge - Salesman"
 layout: post
 date: '2019-04-06 17:00:00'
 image: "/assets/images/markdown.jpg"

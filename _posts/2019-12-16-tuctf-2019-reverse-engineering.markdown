@@ -1,5 +1,5 @@
 ---
-title: TUCTF 2019 Reverse Engineering
+title: TUCTF 2019 - Reverse Engineering
 layout: post
 date: '2019-12-16 17:00:00'
 image: "/assets/images/markdown.jpg"
